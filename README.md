@@ -36,7 +36,7 @@ The code is written in Java, and it is divided into 3 Maven modules:
 
 ## Exercises
 * [Exercise01](docs/exercises/ex01.md)
-* [Exercise02](docs/exercises/ex02.md)
+* [Exercise02](docs/exercises/org.pg4200.ex02.md)
 * [Exercise03](docs/exercises/ex03.md)
 * [Exercise04](docs/exercises/ex04.md)
 * [Exercise05](docs/exercises/ex05.md)
